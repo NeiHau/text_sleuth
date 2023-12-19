@@ -1,4 +1,4 @@
-# text_recognition_mlkit
+# text_sleuth
 
 A new Flutter project.
 
